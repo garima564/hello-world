@@ -1,0 +1,9 @@
+about="a/b #c$ /j/g"
+b=about.split("/")
+
+print(b)
+a=("hello,world")
+print(a[3])
+y="shivam mishra"
+z=y.split()
+print(z[0]+ z[1])
